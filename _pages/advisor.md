@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /Advisor/
+permalink: /advisor/
 author_profile: true
 ---
 
